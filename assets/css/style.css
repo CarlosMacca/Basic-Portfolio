@@ -1,3 +1,40 @@
 body {
-    background-image: url("assets/images/background.png");
+    background-image: url("../images/background.png");
+    
 }
+
+
+h1{
+    background-color: #4aaaa5;
+    color: white;
+    width: 250px;
+    height: 75px;
+
+}
+
+
+h2{
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+
+
+
+
+#section_about {
+    background-color: white;
+    width: 650px;
+    border: 1px solid lightgray;
+    padding: 25px;
+    margin: 25px;
+ }
+
+ #section_contact {
+    background-color: white;
+    width: 270px;
+    border: 1px solid lightgray;
+    padding: 25px;
+    margin: 25px;
+ }
